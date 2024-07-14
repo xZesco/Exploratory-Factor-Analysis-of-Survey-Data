@@ -66,4 +66,4 @@ To replicate or explore the analysis performed in this project, follow these ste
 Contributions to this repository are welcome! If you have suggestions for improvements, additional analyses, or new datasets to explore, please feel free to open an issue or pull request. Ensure that your contributions align with the project's objectives and maintain code quality and documentation standards.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
