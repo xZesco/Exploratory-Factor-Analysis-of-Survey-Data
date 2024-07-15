@@ -48,8 +48,8 @@ To replicate or explore the analysis performed in this project, follow these ste
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
    
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/youssef00mohamed/Exploratory-Factor-Analysis-of-Survey-Data
+   cd Exploratory-Factor-Analysis-of-Survey-Data
 
 2. **Install Dependencies**: Install the required libraries and dependencies.
 
